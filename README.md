@@ -20,7 +20,7 @@ In this module, we will implement a High Availability Web Server Architecture th
 ### Network Topology
 
 The following diagram illustrates the high-level architecture of the High Availability Web Server setup
-![Topology](./topology.jpg)
+![Topology](./topology.png)
 
 ### Description
 
@@ -38,7 +38,7 @@ The following diagram illustrates the high-level architecture of the High Availa
 
 ---
 
-## Spesifikasi Environment
+## Environment & Spec - Host, Spec & Network Interfaces
 
 | No  | Virtual Machine      | Spesifikasi      				| NAT  | Host-Only        | Internal		 |
 | --- | -------------------- | --------------------------------	| ---- | ---------------- | ---------------- |
