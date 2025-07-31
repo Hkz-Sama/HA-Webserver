@@ -57,7 +57,7 @@ The following diagram illustrates the high-level architecture of the High Availa
 
 | Recommended host spec		| Minimum host spec			|
 | -------------------------	| -------------------------	|
-| 6T/12T CPU (i5/R5 class)	| 4T/8T CPU (i3/R3 class)	|
+| 6C/12T CPU (i5/R5 class)	| 4C/8T CPU (i3/R3 class)	|
 | 16 GB RAM					| 8 GB RAM					|
 | ~100 GB free Storage		| ~50 GB Free Storage		|
 
