@@ -53,6 +53,17 @@ The following diagram illustrates the high-level architecture of the High Availa
 - Host-Only	: for Host & VM connection, need static ip for easier access
 - Internal	: for VM interconnection	
 
+### Additional tip
+
+| Recommended host spec		| Minimum host spec			|
+| -------------------------	| -------------------------	|
+| 6T/12T CPU (i5/R5 class)	| 4T/8T CPU (i3/R3 class)	|
+| 16 GB RAM					| 8 GB RAM					|
+| ~100 GB free Storage		| ~50 GB Free Storage		|
+
+If you have minimum spec you can create VM that only have 1/2 spec based on first table (1 vCPU, 1 GB RAM & 1/2 the storage)
+This tutorial is not OS host specific (compatible with linux host & windows host. For mac, i pray for your soul)
+
 ---
 
 ## Installation and Configuration Steps
